@@ -1,7 +1,7 @@
-gymnasium==0.28.1
-matplotlib==3.8.4
-numpy==1.24.3
-pytest==8.3.4
-scikit_learn==1.6.1
-torch==2.5.1
-tqdm==4.66.5
+gymnasium>=0.29.1
+matplotlib
+numpy>=1.21.0
+pytest
+scikit-learn>=1.4.0
+torch>=1.12.0
+tqdm
