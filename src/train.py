@@ -61,7 +61,7 @@ class ProjectAgent:
         
 
     def load(self):
-        path = "DQN_8.pkl"
+        path = "src/DQN_8.pkl"
         
         with open(path, 'rb') as f:
             loaded_data = pickle.load(f)
